@@ -11,3 +11,5 @@ public class DemoApplication {
 	}
 
 }
+
+// La @SpringBootApplicationanotación es equivalente a usar @Configuration
